@@ -1,0 +1,23 @@
+@import "../node_modules/ng2-slim-loading-bar/style.css";
+body{
+  background-color: lightgreen;
+}
+.form-group
+{
+  padding-top:10px
+}
+
+.table{
+  background-color: darkslateblue;
+  color:white;
+  border: 1px solid white;
+}
+
+.table-hover tbody tr:hover {
+  color:white;
+  background-color: dimgray;
+}
+
+
+
+
